@@ -7,7 +7,7 @@ when it doesn't. Let's begin!
 
 #### Steps
 
-1. To copy fonts and keyboards to your computer, run the following command
+1. To copy fonts and keyboards to your computer, run the following command in your Terminal app
 
         curl -s https://raw.githubusercontent.com/imechemi/monlam-bodyig/master/mac/install.sh | bash
 
@@ -21,7 +21,7 @@ when it doesn't. Let's begin!
 <img src="screenshot.png" width="500" />
 
 
-Yup, that's all. བཀྲི་བདེ་ལེགས། 🙏🏼
+You're all set. བཀྲི་བདེ་ལེགས། 🙏🏼
 
 
 **Note:** *Maintainer is serious about security, and trying to transparent to users. Also, future plan is verify the
