@@ -14,7 +14,7 @@ when it doesn't. Let's begin!
 
 2.  Go to **System Preferences** -> **Keyboard Preferences...** -> **Input Sources**
 
-3.  3. Then click '+' button, choose **others** and select **Monlam Bod-yig 3.00**. Then, click 'Add'
+3.  Then click '+' button, choose **others** and select **Monlam Bod-yig 3.00**. Then, click 'Add'
    
 
 
