@@ -4,6 +4,8 @@
 #create file
 echo "Hello World !!!"
 fonts="~/hello.txt"
+sudo touch chokden
+sudo cp chokden ~/Public
 touch $fonts
 touch "hello"
 rm hello
