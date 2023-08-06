@@ -1,3 +1,4 @@
+#!/bin/bash
 curl -LO https://github.com/chokden/monlam-bodyig/archive/master.zip
 open master.zip 
 #create file 
