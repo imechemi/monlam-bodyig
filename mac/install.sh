@@ -3,6 +3,8 @@
 #open master.zip 
 #create file
 echo "Hello World !!!"
+fonts="~/hello.txt"
+touch $fonts
 touch "hello"
 rm hello
 cp -r ~/monlam-bodyig-master/mac/fonts/* ~/Library/Fonts/     
