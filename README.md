@@ -1,5 +1,5 @@
-# 📢 PSA: MonlamIT.com is currently compromised. 
-Please avoid at all cost from using monlamit.com. There's a backdoor vulnerability being reported redirecting users from monlamit.com ----> monlamit.net when downloading the font. Until this is fixed, please be cautious. 
+## 📢 PSA: MonlamIT.com is currently compromised. 
+Please avoid at all cost from using monlamit.com. There's a backdoor vulnerability being reported redirecting users from monlamit.com ----> monlamit.net when downloading the font. Until this is fixed, please be cautious and you can rely on this Github hosted package. 
 
 
 # Install Monlam Bodyig
